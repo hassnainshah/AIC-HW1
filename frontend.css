@@ -1,0 +1,60 @@
+.resume-main{
+	margin: 35px auto ;
+	height: 550px;
+	width: 700px;
+	background-color: rgb(63, 51, 38);
+	font-family: monospace;
+	font-size: 15px;
+	text-align: center;
+	border: 10px inset rgb(200, 198, 186);
+}
+.left-box{
+	float: left;
+	background-color: rgb(63, 51, 38);
+	color: rgb(144, 137, 119);
+	width: 35%;
+	height: 100%;
+}
+.img-area{
+	width: 30%;
+}
+.img-area img{
+	margin: 23%;
+	width: 200px;
+	height: 200px;
+	border: 5px inset rgb(144, 137, 119);
+}
+.heading{
+	margin: 5px;
+}
+.about-me{
+	text-align: left;
+	margin-left: 15px;
+}
+.about-me-bottom{
+	text-align: left;
+	margin-left: 15px;
+}
+.right-box-top{
+	float: left;
+	width: 65%;
+	height: 35%;
+	background-color: rgb(144, 137, 119);
+	color: rgb(98, 76, 51);
+	font-size: 16px;
+}
+
+.right-box-mid{
+	float: left;
+	width: 65%;
+	height: 3%;
+	background-color: rgb(63, 51, 38);
+}
+
+.right-box-bottom{
+	float: left;
+	width: 65%;
+	height: 62%;
+	background-color: rgb(144, 137, 119);
+	color: rgb(98, 76, 51);
+}
